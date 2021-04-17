@@ -1,5 +1,5 @@
 # golden-hour-state
-California solar irradiance analysis using meteorological data from 1998-2019. Developed as final project for the course Environmental Data Analysis &amp; Modeling at Columbia University.
+California solar irradiance analysis using meteorological data from 1998-2019. Developed as final project for the course Environmental Data Analysis &amp; Modeling at Columbia University and partially rehashed for a project paper in Alternative Energy Resources.
 
 Dataset is from The National Renewable Energy Laboratory, a national laboratory of the U.S. Department of Energy.
 
