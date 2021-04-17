@@ -9,4 +9,4 @@ The NSRDB deploys geostationary satellites that collect raw data in the form of 
 
 Direct Normal Irradiance (`DNI`) is the key variable here, as it is directly proportional to solar power potential (Schlecht & Meyer, 2012)
 
-I know what you're thinking, how did he miss the golden opportunity to name this repo *Let the Sunshine In*, referencing the third best musical in history, after of course Jesus Christ Superstar (all hail ALW) and Grease (don't even try to tell me you don't get giddy when Frankie Vallie gets going). However, I'm saving that one in for a similar analysis on Florida, duh. 
+I know what you're thinking, how did he miss the golden opportunity to name this repo *Let the Sunshine In*, referencing the third best musical in history, after of course Jesus Christ Superstar (all hail ALW) and Grease (*everybody* gets giddy when Frankie Vallie gets going). However, that would have to be about Florida. Maybe I should do a similar project on Florida, just for the kick-ass repo name?? 
