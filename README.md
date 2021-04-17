@@ -7,6 +7,6 @@ While their database is vast, covering much of the United States, we selected 11
 
 The NSRDB deploys geostationary satellites that collect raw data in the form of aerosol properties, surface albedo, snow albedo, atmospheric profiles, and cloud properties. These measured values are plugged into a physics-based model to infer other features, such as GHI, DNI, and DHI.
 
-The data we examine spans 1998 through 2019. Variables provided for each location are listed in the next cell.
+Direct Normal Irradiance (`DNI`) is the key variable here, as it is directly proportional to solar power potential (Schlecht & Meyer, 2012)
 
-We are going to model Direct Normal Irradiance (`DNI`) based on these variables as it is the most important predictor when assessing solar power potential (Schlecht & Meyer, 2012). We will use `DNI` and Irradiance interchangeably throughout this project. 
+I know what you're thinking, how did he miss the golden opportunity to name this repo *Let the Sunshine In*, referencing the third best musical in history, after of course Jesus Christ Superstar (all hail ALW) and Grease (don't even try to tell me you don't get giddy when Frankie Vallie gets going). However, I'm saving that one in for a similar analysis on Florida, duh. 
